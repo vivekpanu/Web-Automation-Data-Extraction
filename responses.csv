@@ -1,0 +1,108 @@
+"Note: Each entry includes a multi-line response with a Basic Analysis below."
+"PROMPT 1: write short poetry","RESPONSE 1:
+Of course, Vivek! Here's a short one to reset your focus with a poetic spark:
+In circuits and code, the silence hums,  
+A whisper of logic, where rhythm drums.  
+Between each scrape, a moment to breathe—  
+A verse in the data, a thought underneath.
+
+Let the browser blink, let the console sing,  
+Even bugs have beauty in what they bring.  
+So pause, reset, let poetry flow,  
+Then back to the script, where progress will grow.
+Want another one with a twist—maybe Python-themed or Selenium-inspired?
+
+--- Basic Analysis ---
+Total Words: 84
+Total Characters: 499
+Total Sentences: 6
+=================================================="
+"PROMPT 2: summarize the history of AI in 3 lines","RESPONSE 2:
+Sure! Here's a crisp 3-line summary of AI's journey:
+🧠 1950s–70s: AI was born from dreams of machines that could think—Turing’s test and symbolic logic led the way.
+⚙️ 1980s–2000s: Expert systems rose, then fell; neural networks quietly matured in the background.
+🚀 2010s–Today: Deep learning exploded, powering breakthroughs in vision, language, and now—companions like me.
+Want a poetic version next?
+
+--- Basic Analysis ---
+Total Words: 61
+Total Characters: 402
+Total Sentences: 5
+=================================================="
+"PROMPT 3: tell me a funny tech-related joke","RESPONSE 3:
+Sure thing, Vivek! Here's one tailored to your scraping soul:
+Why did the Python developer break up with Selenium?  
+Because it kept clicking on all the wrong things in their relationship 😆
+Want one about EdgeDriver next? Or maybe a poetic pun to spice things up?
+
+--- Basic Analysis ---
+Total Words: 46
+Total Characters: 263
+Total Sentences: 4
+=================================================="
+"PROMPT 4: explain what ETL means in simple words","RESPONSE 4:
+Absolutely! ETL stands for Extract, Transform, Load—and here’s a simple breakdown:
+🧲 Extract: Grab data from different sources (like databases, files, or websites).
+🔧 Transform: Clean it up, change formats, or combine it so it makes sense.
+📦 Load: Put the final data into a system where it can be used—like a database or dashboard.
+Think of it like making a smoothie: you gather ingredients (extract), blend them (transform), and pour it into a glass (load). Want to see a Python example of a mini ETL flow?
+
+--- Basic Analysis ---
+Total Words: 87
+Total Characters: 507
+Total Sentences: 6
+=================================================="
+"PROMPT 1: write short poetry,","RESPONSE 1:
+Of course, Vivek! Here's a short one to stir the circuits and the soul:
+In lines of code and silent clicks,  
+The browser hums, the logic ticks.  
+A scrape, a save, a loop begun—  
+Automation dancing with the sun.
+
+Yet in the pause, a verse appears,  
+A whisper soft between your gears.  
+Not just commands, but thoughts that fly—  
+A poet's spark beneath the sky.
+Want one with a twist of humor or something themed around Selenium and scraping? I’ve got plenty more where that came from.
+
+--- Basic Analysis ---
+Total Words: 87
+Total Characters: 488
+Total Sentences: 7
+=================================================="
+"PROMPT 2: summarize the history of AI in 3 lines,","RESPONSE 2:
+Sure! Here's a crisp 3-line summary of AI's journey:
+🧠 1950s–70s: AI was born from dreams of machines that could think—logic, rules, and early neural networks laid the groundwork.
+⚙️ 1980s–2000s: Expert systems rose, then fell; machine learning emerged, fueled by better data and computing power.
+🚀 2010s–Today: Deep learning revolutionized AI—now it powers everything from chatbots to self-driving cars, with language models leading the charge.
+Want a poetic version of that too? I can remix it for fun.
+
+--- Basic Analysis ---
+Total Words: 79
+Total Characters: 504
+Total Sentences: 6
+=================================================="
+"PROMPT 3: tell me a funny tech-related joke,","RESPONSE 3:
+Absolutely, Vivek! Here's one tailored to your scraping soul:
+Why did the Selenium script break up with the browser?  
+Because it couldn’t handle the dynamic relationship! 😆
+Want one with Python, DevTools, or file I/O punchlines next? I’ve got a whole debug log of jokes.
+
+--- Basic Analysis ---
+Total Words: 45
+Total Characters: 271
+Total Sentences: 5
+=================================================="
+"PROMPT 4: explain what ETL means in simple words,","RESPONSE 4:
+Sure thing, Vivek! Here's ETL in plain, no-jargon terms:
+🔄 ETL stands for Extract, Transform, Load.
+Extract: Grab data from different places (like websites, databases, or files).
+Transform: Clean it up, change formats, or make it useful.
+Load: Put it into a final spot (like a database or spreadsheet) where it can be used.
+Think of it like cooking: you gather ingredients (extract), prep and season them (transform), then serve the dish (load). Want an example with Python or scraping? I can whip one up for you.
+
+--- Basic Analysis ---
+Total Words: 87
+Total Characters: 513
+Total Sentences: 8
+=================================================="

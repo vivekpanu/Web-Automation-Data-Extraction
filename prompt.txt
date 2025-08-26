@@ -1,0 +1,4 @@
+write short poetry
+summarize the history of AI in 3 lines
+tell me a funny tech-related joke
+explain what ETL means in simple words
