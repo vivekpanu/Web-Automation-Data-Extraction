@@ -17,5 +17,4 @@ Extracted data is further cleaned and analyzed using **Pandas**, making the work
 - **Selenium WebDriver**  
 - **Pandas**  
 - **ChromeDriver** (via `webdriver-manager`)  
-
-## 📂 Project Structure  
+  
